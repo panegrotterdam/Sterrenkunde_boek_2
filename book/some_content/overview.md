@@ -11,4 +11,4 @@ add bestand in de folder
 ```
 
 
-$$ \hbar = \frac{h}{2 \pi}
+$$ \hbar = \frac{h}{2 \pi}$$
