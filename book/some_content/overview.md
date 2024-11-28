@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ``` {figure} figures/NATWEG_gamification_2024-25.jpg
 ---
 width: 50%
-name: fig_mijneerstefiguur
+name: NATWEG_gamification_2024-25.jpg
 ---
 add bestand in de folder
 ```
