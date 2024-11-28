@@ -9,3 +9,6 @@ name: fig_mijneerstefiguur
 ---
 add bestand in de folder
 ```
+
+
+$$ \hbar = \frac{h}{2 \pi}
