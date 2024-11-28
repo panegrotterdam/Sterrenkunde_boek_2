@@ -12,3 +12,12 @@ Dit is een beeld.
 
 
 $$ \hbar = \frac{h}{2 \pi}$$
+
+``` {figure} ../figures/DSC_3783_01.jpg
+---
+width: 50%
+name: NATWEG_gamification_2024-25.jpg
+---
+Dit is een ander beeld.
+```
+
